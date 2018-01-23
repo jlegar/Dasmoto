@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans:900');
+
+body {
+  font-family: Helvetica;
+}
+
+ul.menu {
+  list-style-type: none;
+  background-color: #e4e8c1;
+  margin: 0px;
+  padding: 60px 30px;
+}
+
+li.menu {
+  float: left;
+}
+
+a.menu {
+  color: black;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  padding: 10px 20px;
+}
+
+a.menu:hover {
+  background-color: rgb(166, 77, 116);
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+h2.brushes {
+  background-color: mediumspringgreen;
+}
+
+h2.frames {
+  background-color: lightcoral;
+}
+
+h2.paint {
+  background-color: skyblue;
+}
+
+.price {
+  font-weight: bold;
+  color: blue;
+}
