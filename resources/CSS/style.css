@@ -76,20 +76,22 @@ h2 {
   font-size: 32px;
   font-weight: bold;
   color: white;
-  padding: 0;
+  padding: 5px 15px;
   margin: 10px 0 20px;
+  border-radius: 10px;
+  border: 2px solid black;
 }
 
 #id_brushes {
-  background-color: mediumspringgreen;
+  background-color: rgba(28, 159, 156, 0.71);
 }
 
 #id_frames {
-  background-color: lightcoral;
+  background-color: rgba(147, 91, 39, 0.75);
 }
 
 #id_paint {
-  background-color: skyblue;
+  background-color: rgb(215, 192, 233);
 }
 
 .price {
